@@ -21,6 +21,7 @@ public class Main {
         
         System.out.println("PROGRAMACION II ");
         System.out.println("Miguel VANEGAS. ");
+        System.out.println("Hola soy Daniel");
     }
     
 }
